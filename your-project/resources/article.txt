@@ -1,7 +1,0 @@
-
-Unsupervised Text Summarization using Sentence Embeddings
-https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1
-
-
-Text Summarization with NLTK in Python
-https://stackabuse.com/text-summarization-with-nltk-in-python/

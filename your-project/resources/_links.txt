@@ -1,0 +1,18 @@
+LINKS
+
+* Unsupervised Text Summarization using Sentence Embeddings
+https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1
+
+* Text summarization with NLTK in Python
+https://stackabuse.com/text-summarization-with-nltk-in-python/
+
+* Skip thoughts encoder
+https://github.com/ryankiros/skip-thoughts
+
+* ROUGE
+https://pypi.org/project/easy-rouge/
+
+* Data
+TIPSTER: https://www-nlpir.nist.gov/related_projects/tipster_summac/cmp_lg.html
+BBC NEWS: https://www.kaggle.com/pariza/bbc-news-summary
+NEWS SUMMARY: https://www.kaggle.com/sunnysai12345/news-summary
